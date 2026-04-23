@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amish Raj</h1>
-<h3 align="center">Recent Masters in Computer Science Grad @ GWU 🎓  Ex Full-Stack Software Developer and Intern @ Fidelity Investments 👨‍💻 <br><br>Results-focused Software Developer with experience in web application development and testing. A firm believer in using Test-Driven Development to create robust and easy-to-use applications. Experienced in Agile and Scrum environments ✒️ <br><br> I enjoy interacting and learning with new professionals, so let's grab a cup of coffee and chat! 🍵</h3> <br>
+<h3 align="center">Results-focused Software Developer with experience in web application development and testing. A firm believer in using Test-Driven Development to create robust and easy-to-use applications. Experienced in Agile and Scrum environments ✒️ <br><br> I enjoy interacting and learning with new professionals, so let's grab a cup of coffee and chat! 🍵</h3> <br>
 
 - 🔭 I’m currently working on **GW Talent Trade** and **FoodSaver**
 
