@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amish Raj</h1>
 <h3 align="center">Results-focused Software Developer with experience in web application development and testing. A firm believer in using Test-Driven Development to create robust and easy-to-use applications. Experienced in Agile and Scrum environments ✒️ <br><br> I enjoy interacting and learning with new professionals, so let's grab a cup of coffee and chat! 🍵</h3> <br>
 
-- 🔭 I’m currently working on **GW Talent Trade** and **FoodSaver**
+- 🔭 I’m currently working on IronMic- privacy focused voice AI tool
 
-- 🌱 I’m currently learning **Kotlin and Android Development**
+- 🌱 I’m currently learning AI System Design
 
 - 👨‍💻 All of my projects are available at [amishraj.github.io](amishraj.github.io)
 
 - 💬 Ask me about **Test Driven Development, Angular, HTML, CSS, Java, JDBC, SQL, AWS**
 
-- 📫 How to reach me **amish.raj@gwu.edu**
-
-- 📄 Know about my experiences [https://tinyurl.com/amishrajresume](https://tinyurl.com/amishrajresume)
+- 📫 How to reach me **amish.raj1970@gmail.com**
 
 - ⚡ Fun fact **I'm a music producer and I make hip-hop beats as a hobby!**
 
